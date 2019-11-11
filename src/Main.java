@@ -19,7 +19,7 @@ class Main {
                 HashMap<String,Integer> wordID = new HashMap<>();
                 Integer index = 1; //index tracking
                 FileReader reader;
-                String path = "C:\\Users\\Tariq Farooq\\Desktop\\SEMESTER 3\\Data Structures and Algorithms\\PROJET FILS\\";
+                String path = "C:\\Users\\Blank\\Desktop\\SEMESTER 3\\Data Structures and Algorithms\\PROJET FILS\\";
                 // try-catch block to handle exceptions
         System.out.println(path);
                 try {
